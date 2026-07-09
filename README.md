@@ -1,18 +1,51 @@
-### Hi there 👋
-### 大家好，我是李菜菜，目前在北京做前端开发，关注：Vue,TS,JS,Golang开发，致力于成为一名合格的全栈开发工程师！
-### 如果对您有帮助，欢迎 star 或者 followers ,ღ( ´･ᴗ･` )比心 ！
-<!--
-**lqliqi/lqliqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# AI Application Developer in Progress
 
-Here are some ideas to get you started:
+10 年前端开发经验，正在转向 AI 应用开发方向。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lqliqi&show_icons=true&theme=algolia&repo=vue3-vite-element-plus-ts-admin)](https://github.com/anuraghazra/github-readme-stats)
+目前主攻：
+
+- AI 应用开发
+- RAG 知识库问答
+- Agent / 智能体工程
+- Python / FastAPI 后端服务
+- React / TypeScript AI 产品交互
+
+我关注的不只是“调用大模型接口”，而是如何把 AI 能力落到真实产品中：  
+从需求分析、接口设计、数据流、前端交互，到后端服务、RAG 检索、Agent 工具调用和效果评估。
+
+## Current Focus
+
+- 用 FastAPI 构建 AI 应用后端
+- 从 Todo API 开始补齐 Python 后端基础
+- 构建 RAG + Agent 项目作品集
+- 持续跟踪 AI 应用开发岗位要求
+- 将 10 年前端经验迁移到 AI 产品工程与智能体应用开发中
+
+## Tech Stack
+
+**AI / Backend**
+
+- Python
+- FastAPI
+- Pydantic
+- RAG
+- Agent
+- LLM API
+
+**Frontend**
+
+- JavaScript / TypeScript
+- Vue
+- React
+- Vite
+- Element Plus
+
+**Career Direction**
+
+目标岗位：
+
+- AI 应用开发工程师
+- RAG 应用开发工程师
+- Agent / 智能体工程师
+- 大模型应用开发工程师
+- AI 产品工程师
