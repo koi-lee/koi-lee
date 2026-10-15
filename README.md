@@ -13,8 +13,11 @@ I'm Koi, based in Chengdu, China. Thanks for visiting my profile!
 | 你想解决什么 | 从这里开始 |
 |---|---|
 | 关注公开重置预告、完成消息和原帖依据，少反复翻找消息 | **[网页版 · 直接打开](https://www.starshoreai.com/quota-orbit/)**：免费，无需登录；只展示公开消息，不读取个人额度 |
+| 不用一直打开监控网站，有新的 Codex 公开重置消息时收到提醒 | **[Chrome 扩展 · 商店安装](https://chromewebstore.google.com/detail/gdcfobdknlhbkijoboocooeibfgfdpip?hl=zh-CN)**：每 5 分钟在浏览器后台检查，按设置发送系统通知；可查看来源与原帖，不读取个人额度或浏览记录 |
 | 在工作时随手查看自己的剩余额度、恢复时间和本次会话的额度变化 | **[Mac 客户端 · 源码与下载](https://github.com/koi-lee/quota-orbit)**：通过桌宠和菜单栏查看；读取个人额度需在本机安装并登录 Codex CLI |
 | 把消息放到桌边或随身的小屏上，抬眼就能看 | **[AI Passport 随身版 · 固件与指南](https://github.com/koi-lee/quota-orbit-aipassport)**：设备连上 Wi-Fi 即可查看公开公告；选装 Mac 同步助手后，还能显示个人额度 |
+
+Chrome 扩展在浏览器退出、设备休眠、断网或系统屏蔽通知时，检查和提醒可能延迟；首次安装不补发历史通知。
 
 随身版需要 AI Passport 硬件。个人额度同步还需要 Mac 保持唤醒、登录 Codex、运行同步助手，并与设备处于同一 Wi-Fi；只看公开公告不需要 Mac。
 
